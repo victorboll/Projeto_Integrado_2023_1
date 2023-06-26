@@ -103,50 +103,50 @@ a:hover {
 }
 
 .section-products #product-1 .part-1::before {
-    background: url("/imagens/colecao/Jujutsu22.jpg") no-repeat center;
+    background: url("imagens/colecao/Jujutsu22.jpg") no-repeat center;
     background-size: cover;
 		transition: all 0.3s;
     z-index: 1;
 }
 
 .section-products #product-2 .part-1::before {
-    background: url("/imagens/colecao/Jujutsu21.jpg") no-repeat center;
+    background: url("imagens/colecao/Jujutsu21.jpg") no-repeat center;
     background-size: cover;
     z-index: 1
 }
 
 .section-products #product-3 .part-1::before {
-    background: url("/imagens/colecao/Jujutsu20.jpg") no-repeat center;
+    background: url("imagens/colecao/Jujutsu20.jpg") no-repeat center;
     background-size: cover;
     z-index: 1
 }
 
 .section-products #product-4 .part-1::before {
-    background: url("/imagens/colecao/Jujutsu19.jpg") no-repeat center;
+    background: url("imagens/colecao/Jujutsu19.jpg") no-repeat center;
     background-size: cover;
     z-index: 1
 }
 
 .section-products #product-5 .part-1::before {
-  background: url("/imagens/colecao/Jujutsu18.jpg") no-repeat center;
+  background: url("imagens/colecao/Jujutsu18.jpg") no-repeat center;
   background-size: cover;
   z-index: 1
 }
 
 .section-products #product-6 .part-1::before {
-  background: url("/imagens/colecao/Jujutsu17.jpg") no-repeat center;
+  background: url("imagens/colecao/Jujutsu17.jpg") no-repeat center;
   background-size: cover;
   z-index: 1
 }
 
 .section-products #product-7 .part-1::before {
-  background: url("/imagens/colecao/Jujutsu16.jpg") no-repeat center;
+  background: url("imagens/colecao/Jujutsu16.jpg") no-repeat center;
   background-size: cover;
   z-index: 1
 }
 
 .section-products #product-8 .part-1::before {
-  background: url("/imagens/colecao/Jujutsu15.jpg") no-repeat center;
+  background: url("imagens/colecao/Jujutsu15.jpg") no-repeat center;
   background-size: cover;
   z-index: 1
 }
